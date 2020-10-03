@@ -1,0 +1,186 @@
+
+.container
+{
+    width: 1440px;
+    
+}
+
+
+
+img {
+    float: left;
+    width:50px;
+    
+}
+
+
+
+h2 {
+    position: absolute;
+    margin-top:10px;
+    margin-left:65px;
+}
+.line img
+{ width: 1600px;
+  height: 0;
+margin-top: 10px;
+  object-fit: contain;
+  border: solid 1px #707070;
+  background-color: #909090;
+    margin-bottom: 4px;
+    
+}
+.branch1
+{
+       width: 980px;
+  height: 72px;
+  border-radius: 12px;
+  background-color: #e5ecfc;
+    margin-top: 11px;
+    
+}
+.branch1 h3
+{
+    margin-left: 66px;
+    padding-top: 15px;
+    position: relative;
+    
+}
+.branch1 img
+{
+    position: absolute;
+  width: 0;
+  height: 69px;
+  object-fit: contain;
+  border: solid 1px #707070;
+    float: left;
+    top: 78px;
+    right: 180px;
+}
+.branch1 .delete img
+{ 
+    position: absolute;
+    right: 120px;
+    top: 89px; 
+    width: 37.2px;
+  height: 39.8px;
+  object-fit: contain;
+    
+}
+
+.selectedfield {
+    
+    width: 380px;
+  height: 72px;
+  border-radius: 12px;
+  border: solid 1px #909090;
+  background-color: #ffffff;
+    float: left;
+    margin-top: 18px;
+    margin-left: 20px;
+    
+}
+.if .dropdown button
+{  
+   background-color: white;
+    border-radius: 12px;
+  border: solid 1px #909090;
+  color: #909090;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+    margin-top: 30px;
+    margin-left: 130px;
+    width: 250px;
+    position: relative;
+    
+    
+
+}
+.if h3
+{
+   position: absolute;
+    margin-top: 20px;
+}
+.if .dropdown2 button
+{
+    color: #000000;
+    position: absolute;
+    top: 0;
+    left:300px;
+    
+}
+
+.if .dropdown3 button
+{
+    color: #000000;
+    position: absolute;
+    top: 0;
+    left:600px;
+    
+}
+
+.dropdown3 img
+{
+   margin-right: -214px;
+    margin-top: -55px;
+    
+    
+}
+.cross img
+{  width: 38.7px;
+  height: 38.7px;
+    margin-right: -274px;
+    margin-top: -47px;
+    
+}
+.form_group
+{  
+    width: 1693px;
+  height: 1452px;
+  background-color: #ffffff;
+    margin-top: 20px;
+    position: relative;
+    
+    
+}
+
+.lining img
+{
+    width: 1693px;
+  height: 0;
+margin-top: 10px;
+  object-fit: contain;
+  border: solid 1px #707070;
+  background-color: #909090;
+    margin-bottom: 4px;
+    position: absolute;
+    top: 160px;
+    left: 2px;
+    
+}
+.branch2
+{
+       width: 980px;
+  height: 72px;
+  border-radius: 12px;
+  background-color: #e5ecfc;
+    margin-top: 11px;
+    
+}
+.branch2 h3
+{
+    margin-left: 66px;
+    padding-top: 15px;
+    padding:1px;
+    
+}
+
+
+
+
+
+
+
